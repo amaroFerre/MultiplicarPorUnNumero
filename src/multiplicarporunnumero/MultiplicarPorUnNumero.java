@@ -21,6 +21,14 @@ public class MultiplicarPorUnNumero {
   public static void main(String[] args) {
     // TODO code application logic here
     
+    //Muestra la tabla de multiplicar de un número introducido por teclado.
+    
+    // Creo un objeto de la clase Scanner
+    
+    Scanner entrada = new Scanner(System.in);
+    
+    
+    
     
   }
   
