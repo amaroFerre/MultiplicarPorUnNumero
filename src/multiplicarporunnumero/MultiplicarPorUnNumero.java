@@ -5,6 +5,10 @@
  */
 package multiplicarporunnumero;
 
+// Importo el paquete java.util para poder utilizar la clase Scanner
+
+import java.util.*;
+
 /**
  *
  * @author Amarico
@@ -16,6 +20,8 @@ public class MultiplicarPorUnNumero {
    */
   public static void main(String[] args) {
     // TODO code application logic here
+    
+    
   }
   
 }
