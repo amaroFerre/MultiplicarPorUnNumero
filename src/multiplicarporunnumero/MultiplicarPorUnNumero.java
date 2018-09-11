@@ -44,7 +44,9 @@ public class MultiplicarPorUnNumero {
     
     // Comienzo el bucle for
     
-    for (int i = 0; i < 10; i++) {
+    // pongo i<= 10 para que me imprima tambien el número introducido por 10
+    
+    for (int i = 0; i <= 10; i++) {
       
       resultado = numero * i;
       
