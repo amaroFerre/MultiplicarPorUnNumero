@@ -31,12 +31,26 @@ public class MultiplicarPorUnNumero {
     
     int numero;
     
+    // Creo otra variable de tipo entero para el resultado de la multiplicación
+    
+    int resultado;
+    
     // Pido un número por teclado
     
     System.out.println("Introduce un número: ");
     
     numero = entrada.nextInt();
     
+    
+    // Comienzo el bucle for
+    
+    for (int i = 0; i < 10; i++) {
+      
+      resultado = numero * i;
+      
+      System.out.println("El número " + numero + " multiplicado por "+ i + " es igual " + resultado);
+      
+    }
     
     
     
