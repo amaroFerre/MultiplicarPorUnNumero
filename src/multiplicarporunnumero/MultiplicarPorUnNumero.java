@@ -31,6 +31,12 @@ public class MultiplicarPorUnNumero {
     
     int numero;
     
+    // Pido un número por teclado
+    
+    System.out.println("Introduce un número: ");
+    
+    numero = entrada.nextInt();
+    
     
     
     
