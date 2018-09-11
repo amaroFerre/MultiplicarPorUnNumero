@@ -27,6 +27,10 @@ public class MultiplicarPorUnNumero {
     
     Scanner entrada = new Scanner(System.in);
     
+    // Creo una variable de tipo entero
+    
+    int numero;
+    
     
     
     
